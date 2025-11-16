@@ -15,3 +15,7 @@ This project aims to analyze and track student performance in exam sessions usin
 - **Google BigQuery**: For querying and analyzing the data.
 - **SQL**: To perform data operations like joins, calculations, and window functions.
 - **Google Sheets**: Used for easy data handling and uploading into BigQuery.
+
+## Dataset Access (BigQuery Link)
+- You can access the **BigQuery Dataset** here: [**BigQuery Link to Project**](https://console.cloud.google.com/bigquery?project=junnatul-10ms-assesment&ws=!1m9!1m4!4m3!1sjunnatul-10ms-assesment!2sexams_dataset!3sPerformance%2520Trend%2520view%2520by%2520LAG!1m3!3m2!1sjunnatul-10ms-assesment!2sexams_dataset).
+- Make sure you have the necessary permissions to view the dataset or request access if needed.
